@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christian David Díaz Rendón
 
-🚀 **Semi-Senior Full-Stack Software Developer**  
+🚀 **Full-Stack Software Developer**  
 💻 Passionate about scalable systems, cloud solutions, and Artificial Intelligence.
 
 ---
