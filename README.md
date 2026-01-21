@@ -68,7 +68,7 @@ I am deeply interested in:
 ## 🎓 Education
 
 - **Systems Engineering** — University of Cundinamarca  
-- **Specialization in Digital Transformation** — University of Cundinamarca *(incomplete)*  
+- **Specialization in Digital Transformation** — University of Cundinamarca *(incomplete)* *(stopped)*  
 - **Technical Degree in Accounting of Commercial and Financial Operations** — SENA  
 
 ---
